@@ -18,6 +18,9 @@ myImage.style.height= '300px'
 let newImage = document.querySelector("#gotya")
 newImage.style.height= '300px'
 
-let item15 = document.querySelector('#item15')
-item15.className= 'item'
+let item16 = document.querySelector('#item-16')
+item16.classList.add = 'item'
+item16.innerText =  "Won't get fooled again. "
+
+
 
